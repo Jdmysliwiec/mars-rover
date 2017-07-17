@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+img {
+  height: 500px;
+  width: 500px;
+  padding: 1em;
+  border:5px solid brown;
+}
+
+.photo {
+  object-fit: cover;
+}
